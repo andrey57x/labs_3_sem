@@ -1,0 +1,14 @@
+E:\C++\Sem3Labs\Equation\bin\Debug\net8.0\Equation.exe
+E:\C++\Sem3Labs\Equation\bin\Debug\net8.0\Equation.deps.json
+E:\C++\Sem3Labs\Equation\bin\Debug\net8.0\Equation.runtimeconfig.json
+E:\C++\Sem3Labs\Equation\bin\Debug\net8.0\Equation.dll
+E:\C++\Sem3Labs\Equation\bin\Debug\net8.0\Equation.pdb
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.AssemblyInfoInputs.cache
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.AssemblyInfo.cs
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.csproj.CoreCompileInputs.cache
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.dll
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\refint\Equation.dll
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.pdb
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\Equation.genruntimeconfig.cache
+E:\C++\Sem3Labs\Equation\obj\Debug\net8.0\ref\Equation.dll

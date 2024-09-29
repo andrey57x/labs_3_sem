@@ -1,0 +1,17 @@
+E:\C++\Sem3Labs\Files\bin\Debug\net8.0-windows\Files.exe
+E:\C++\Sem3Labs\Files\bin\Debug\net8.0-windows\Files.deps.json
+E:\C++\Sem3Labs\Files\bin\Debug\net8.0-windows\Files.runtimeconfig.json
+E:\C++\Sem3Labs\Files\bin\Debug\net8.0-windows\Files.dll
+E:\C++\Sem3Labs\Files\bin\Debug\net8.0-windows\Files.pdb
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.csproj.GenerateResource.cache
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.AssemblyInfoInputs.cache
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.AssemblyInfo.cs
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.csproj.CoreCompileInputs.cache
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.dll
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\refint\Files.dll
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.pdb
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.genruntimeconfig.cache
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\ref\Files.dll
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.Form.resources
+E:\C++\Sem3Labs\Files\obj\Debug\net8.0-windows\Files.Properties.Resources.resources

@@ -10,3 +10,4 @@
 3) [Лабораторная работа №4](https://github.com/andrey57x/labs_3_sem/blob/main/C%23/Files/Program.cs)
 ## РК
 1) [РК1](https://github.com/andrey57x/labs_3_sem/blob/main/Python/RK1/main.py)
+2) [РК2](https://github.com/andrey57x/labs_3_sem/blob/main/Python/RK2/unit_test.py)
